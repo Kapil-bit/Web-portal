@@ -1,0 +1,26 @@
+.news-container {
+    display: flex;
+    flex-direction: column;
+    padding: 20px;
+  }
+  
+  .news-item {
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    box-shadow: 0px 2px 4px rgba(0, 0, 0, 0.1);
+    margin-bottom: 20px;
+    padding: 10px;
+  }
+  
+  .news-title {
+    font-size: 25px;
+    font-weight: bolder;
+    font-weight: normal;
+    margin: 0;
+    margin-bottom: 10px;
+  }
+  
+  .news-description {
+    margin: 0;
+  }
+  

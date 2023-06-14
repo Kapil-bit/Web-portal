@@ -1,0 +1,43 @@
+.name {
+    display: flex;
+    justify-content: space-between;
+    align-items:center;
+    background-color: #34384f;
+}
+
+.logo {
+    margin-left: 1rem;
+    color: aliceblue;
+    font-size: 40px;
+    font-weight: bolder;
+    background-color: transparent; 
+    border: none; 
+    cursor: pointer;
+}
+
+.item {
+    display: flex;
+}
+
+.ul {
+    display: flex;
+    margin: 25px;   
+    align-items: center;
+}
+
+li {
+    margin: 0 3rem;
+    display: inline-block;
+ }
+
+ a {
+    text-decoration: none;
+    color: #f08577;
+    font-size: 15px;
+
+ }
+
+ a:hover {
+    color: aliceblue;
+}
+

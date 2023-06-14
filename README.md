@@ -40,4 +40,4 @@ If you are in react directory:
 
 Open [http://localhost:5000](http://localhost:5000) to view it in your browser.
 
-You also need to install multiple python libraries in order to run the ML model inside the server. Install tensorflow, keras, seaborn, pandas, numpy, scikit-learn using pip install <libraries_name>.
+You also need to install multiple python libraries in order to run the ML model inside the server. Install tensorflow, keras, seaborn, pandas, numpy, scikit-learn using pip install <libraries_names>. The virtual environment along with libraries were not uploaded because of large file sizes.

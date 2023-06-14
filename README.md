@@ -1,5 +1,5 @@
-# Web-portal
-# Getting Started with Create React App
+# Weather portal
+# This web app is developed to visualize the forecasted precipitation and temperature of various meteorological stations using ML models trained on the station based different weather parameters.
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
